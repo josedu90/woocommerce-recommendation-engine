@@ -1,0 +1,20 @@
+{
+  "name": "woocommerce-recommendation-engine",
+  "version": "3.0.2",
+  "description": "WooCommerce Recommendation Engine is a smart recommendation engine for your store, providing automatic cross sells based on users viewing and purcahsing history.",
+  "main": "Gruntfile.js",
+  "homepage": "http://www.woothemes.com/woocommerce/",
+  "dependencies": {
+    "load-grunt-config": "latest",
+    "load-grunt-tasks": "latest",
+    "time-grunt": "latest"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-compress": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-notify": "latest",
+    "grunt-wp-i18n": "latest"
+  }
+}
